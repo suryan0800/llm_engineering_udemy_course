@@ -16,5 +16,23 @@
     },
     "estimate": 930.8824204895075,
     "discount": 225.88242048950747
+  },
+  {
+    "deal": {
+      "product_description": "This 1000-lbs. Steel Engine Cradle is designed specifically for Ford vehicles, providing a sturdy and reliable option for engine maintenance and storage. Its heavy-duty construction ensures that it can support significant weight, making it ideal for professional mechanics and DIY enthusiasts alike. This cradle is a must-have for any Ford owner looking to perform engine work with ease and safety, offering durability and stability during engine repairs or transportation.",
+      "price": 38.99,
+      "url": "https://www.dealnews.com/Auto-Accessory-Deals-at-eBay-Up-to-95-off-free-shipping/21744187.html?iref=rss-c238"
+    },
+    "estimate": 409.8894294184797,
+    "discount": 370.8994294184797
+  },
+  {
+    "deal": {
+      "product_description": "This back up camera is designed specifically for 2011-2013 Jeep Grand Cherokee and Dodge Durango models. It features a wide 130-degree angle, which provides an enhanced view for safer reversing. Its durable construction ensures longevity even in challenging conditions, making it a reliable addition to your vehicle. Easy to install, this camera is a great upgrade for improving visibility and safety when backing up your SUV.",
+      "price": 17.0,
+      "url": "https://www.dealnews.com/Back-Up-Camera-for-2011-2013-Jeep-Grand-Cherokee-Dodge-Durango-for-17-free-shipping/21744186.html?iref=rss-c238"
+    },
+    "estimate": 89.3287627503042,
+    "discount": 72.3287627503042
   }
 ]

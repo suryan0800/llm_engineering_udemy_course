@@ -10,7 +10,7 @@ class PlanningAgent(Agent):
 
     name = "Planning Agent"
     color = Agent.GREEN
-    DEAL_THRESHOLD = 50
+    DEAL_THRESHOLD = 1
 
     def __init__(self, collection):
         """

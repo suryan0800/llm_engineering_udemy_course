@@ -42,3 +42,7 @@ setuptools
 speedtest-cli
 sentence_transformers
 feedparser
+unstructured[docx]
+unstructured[pdf]
+unstructured[xlsx]
+twilio
